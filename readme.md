@@ -3,10 +3,10 @@ This is basically a JAVA based desktop app for small buisnesses to manage invent
 
 # Features
 - Track items in stock
--Add,Update,Remove items
--Manage custermor orders
--Low stock alerts
--Generate reports
+- Add,Update,Remove items
+- Manage custermor orders
+- Low stock alerts
+- Generate reports
 
 # Tech Stack
 - Java (OOP)
