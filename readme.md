@@ -8,7 +8,7 @@ This is basically a JAVA based desktop app for small buisnesses to manage invent
 -Low stock alerts
 -Generate reports
 
-#Tech Stack
+# Tech Stack
 - Java (OOP)
 - JavaFX (GUI)
 - MySQL (Database)
