@@ -85,5 +85,7 @@ INSERT INTO ORDER_ITEMS (OrderID, ItemID, Quantity) VALUES
 -- SELECT 'Suppliers inserted:' AS Info, COUNT(*) AS Count FROM Suppliers;
 -- SELECT 'Items inserted:' AS Info, COUNT(*) AS Count FROM ITEMS;
 -- SELECT 'Orders inserted:' AS Info, COUNT(*) AS Count FROM ORDERS;
--- SELECT 'Order Items inserted:' AS Info, COUNT(*) AS Count FROM ORDER_ITEMS;
--- SELECT 'Users inserted:' AS Info, COUNT(*) AS Count FROM USERS;
+-- SELECT 'Order Items inserted:' AS Info, COUNT(*) AS Count FROM O
+
+
+
